@@ -15,7 +15,7 @@ export default function Home() {
               <span className="text-indigo-600 block">Alan Smolansky</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              USC student with 5+ years of tutoring experience. Specializing in
+              USC student with 3+ years of tutoring experience. Specializing in
               SAT prep, chess, and academic subjects. Available for in-person
               and virtual sessions.
             </p>

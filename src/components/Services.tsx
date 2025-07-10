@@ -47,7 +47,7 @@ export default function Services() {
     {
       title: 'Chess',
       description:
-        'Learn chess strategy, tactics, and advanced techniques from opening theory to endgame mastery.',
+        'Increase chess rating, by learning chess theory, tactics, and mastering opening to endgame strategies.',
       icon: (
         <svg
           className="w-8 h-8"
@@ -113,6 +113,33 @@ export default function Services() {
       ),
       color: 'bg-red-500',
     },
+    {
+      title: 'College Application Essays',
+      description:
+        'Expert guidance on brainstorming, drafting, and polishing college application essays to help you stand out to admissions committees.',
+      icon: (
+        <svg
+          className="w-8 h-8"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M12 20h9"
+          />
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M16.5 3.5a2.121 2.121 0 113 3L7 19.5 3 21l1.5-4L16.5 3.5z"
+          />
+        </svg>
+      ),
+      color: 'bg-yellow-500',
+    },
   ];
 
   return (
@@ -152,7 +179,7 @@ export default function Services() {
 
         <div className="mt-16 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-2xl p-8 text-center text-white">
           <h3 className="text-2xl font-bold mb-4">Flexible Learning Options</h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16 max-w-4xl mx-auto">
             <div>
               <h4 className="text-lg font-semibold mb-2">In-Person Tutoring</h4>
               <p className="text-indigo-100">

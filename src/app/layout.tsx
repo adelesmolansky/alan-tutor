@@ -15,14 +15,14 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'Alan Smolansky - Professional Tutoring Services',
   description:
-    'USC student with 5+ years of tutoring experience. Specializing in SAT prep, chess, and academic subjects. Available for in-person and virtual sessions.',
+    'USC student with 3+ years of tutoring experience. Specializing in SAT prep, chess, and academic subjects. Available for in-person and virtual sessions.',
   keywords:
     'tutoring, SAT prep, chess lessons, academic tutoring, USC, Los Angeles, virtual tutoring',
   authors: [{ name: 'Alan Smolansky' }],
   openGraph: {
     title: 'Alan Smolansky - Professional Tutoring Services',
     description:
-      'USC student with 5+ years of tutoring experience. Specializing in SAT prep, chess, and academic subjects.',
+      'USC student with 3+ years of tutoring experience. Specializing in SAT prep, chess, and academic subjects.',
     type: 'website',
   },
 };

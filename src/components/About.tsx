@@ -16,12 +16,12 @@ export default function About() {
                 reach their full potential.
               </p>
               <p>
-                With over <strong>5 years of tutoring experience</strong>,
+                With over <strong>3+ years of tutoring experience</strong>,
                 I&apos;ve helped countless students improve their academic
                 performance and test scores.
               </p>
               <p>
-                I achieved a <strong>1560 SAT score</strong>, placing me in the
+                I achieved a <strong>1540 SAT score</strong>, placing me in the
                 top 1% of test takers, and I&apos;m excited to share my
                 strategies and knowledge with you.
               </p>
@@ -29,11 +29,11 @@ export default function About() {
 
             <div className="mt-8 grid grid-cols-1 sm:grid-cols-3 gap-6">
               <div className="text-center">
-                <div className="text-3xl font-bold text-indigo-600">5+</div>
+                <div className="text-3xl font-bold text-indigo-600">3+</div>
                 <div className="text-sm text-gray-600">Years Experience</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-indigo-600">1560</div>
+                <div className="text-3xl font-bold text-indigo-600">1540</div>
                 <div className="text-sm text-gray-600">SAT Score</div>
               </div>
               <div className="text-center">
